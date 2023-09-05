@@ -1,2 +1,3 @@
-# Marrakech-Trader
-A digital version of the Marrakech Trader board game using Java
+# Marrakech Trader Digital Game
+
+This is a digital adaptation of the Marrakech Trader board game using Java.
